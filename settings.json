@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "THUNDERSMP-LNZk.aternos.me",
-    "port": 61276,
-    "version": "26.3",
+    "ip": "solocloud.site",
+    "port": 25565,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
